@@ -1,5 +1,4 @@
 # Yi-Le Huang 黃以樂
-Student at National Yang Ming Chiao Tung University
 
 ## Biography
 I am a student in Department of Applied Mathematics at National Yang Ming Chiao Tung University (NYCU).
