@@ -5,7 +5,7 @@ Student at National Yang Ming Chiao Tung University
 I am a student in Department of Applied Mathematics at National Yang Ming Chiao Tung University (NYCU).
 
 ## Education
-Graduated from HSNU class 1508
+Graduated from HSNU class 1508  
 National Yang Ming Chiao Tung University  
 Department of Applied mathematics (2022.9 ~ Now)
 
