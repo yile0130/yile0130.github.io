@@ -1,11 +1,12 @@
-# Welcome to my personal website!
+# Yi-Le Huang 黃以樂
+Student at National Yang Ming Chiao Tung University
 
 ## Biography
 I am a student in Department of Applied Mathematics at National Yang Ming Chiao Tung University (NYCU).
 
 ## Education
-National Yang Ming Chiao Tung University
-
+Graduated from HSNU class 1508
+National Yang Ming Chiao Tung University  
 Department of Applied mathematics (2022.9 ~ Now)
 
 ## Contact
