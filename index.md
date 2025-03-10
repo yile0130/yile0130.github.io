@@ -1,6 +1,4 @@
-# 我的 GitHub Pages 網站
-
-Welcome to my personal website!
+# Welcome to my personal website!
 
 ## Biography
 I am a student in Department of Applied Mathematics at National Yang Ming Chiao Tung University (NYCU).
